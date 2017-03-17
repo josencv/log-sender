@@ -4,16 +4,11 @@
 ## Installation
 
 ```sh
+$ npm install -g gulp
+$ npm install -g nodemon
 $ npm install --save log-sender
 ```
 
-## Usage
-
-```js
-var logSender = require('log-sender');
-
-logSender('Rainbow');
-```
 ## License
 
 MIT © [José Ignacio Navarro]()
